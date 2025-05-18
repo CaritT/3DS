@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'f';
+    src: url(./KronaOne-Regular.ttf);
+}
+
+.top1{
+    font-family: 'f';
+    height: 917px;
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+.box{
+    height: 420px;
+    width: 490px;
+    background-color: aliceblue;
+}
+.box1{
+    position: absolute;
+    left: 400px;
+}
+.box2{
+    position: absolute;
+    left: 1000px;
+    top: 400px;
+}
+.coin{
+    height: 100%;
+    width: 100%;
+}
+.box3{
+    position: absolute;
+    left: 400px;
+    top: 800px;
+}
+.box4{
+    position: absolute;
+    left: 1000px;
+    top: 1200px;
+}
+.box5{
+    position: absolute;
+    left: 400px;
+    top: 1600px;
+}
+.box6{
+    position: absolute;
+    left: 1000px;
+    top: 2000px;
+}
+.box7{
+    position: absolute;
+    left: 400px;
+    top: 2400px;
+}
+.box8{
+    position: absolute;
+    left: 1000px;
+    top: 2800px;
+}   
+.car{
+    height: 100%;
+    width: 400px;
+}
